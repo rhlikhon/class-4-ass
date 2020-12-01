@@ -1,0 +1,38 @@
+body{
+     margin: 0;
+     padding: 0;
+
+}
+
+.container{
+     width: 80;
+     margin: auto;
+
+}
+
+.icon-area ul{
+     list-style: none;
+     /*margin-top: 55px;*/
+    
+}
+
+.icon-area ul li{
+      display: inline-block;
+
+}
+
+.icon-area ul li a{
+     background: red;
+     color: royalblue;
+     padding: 40px 50px;
+     display: block;
+     font-size: 50px;
+
+}
+
+.icon-area ul li a:hover{
+     background: springgreen;
+     color: yellow;
+     border-radius: 50%;
+
+}
